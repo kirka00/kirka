@@ -15,3 +15,11 @@
 -  ==== ====
 - ===== =====
 +   === ===
+
+
+====
+9 коммитов:
+5 за 2016 год: init, boots, READMEM added, dots, fix readme;
+2 мои за 11 декабря: Merge remote-tracking branch 'origin/boots' into boots_buttons,
+Merge remote-tracking branch 'origin/buttons' into boots_buttons;
+и 2 за 14 декабря: 'new' and 'last'.
